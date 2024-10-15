@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **barrett.morrissette@gmail.com**
 
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1qZwTFgI6ldRHWBqK58Z8vCO2aLhF0qPns8lqX20CgQ8/edit?tab=t.0)
+
 - ⚡ Fun fact **I own two pet iguanas**
 
 <h3 align="left">Connect with me:</h3>
