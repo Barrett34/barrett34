@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++ Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [Data Projects]((https://github.com/Barrett34/Data_Projects_TripleTen)
+- 👨‍💻 All of my projects are available at [Data Projects](https://github.com/Barrett34/Data_Projects_TripleTen)
 
 - 📫 How to reach me **barrett.morrissette@gmail.com**
 
