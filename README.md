@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barrett Morrissette</h1>
 <h3 align="center">Aspiring data scientist with 3+ years of software development experience and 1 year in data science, complemented by a portfolio of projects focused on data analysis, statistical modeling, and machine learning. Demonstrates deep proficiency in Python and a strong understanding of analytical tools. Eager to leverage development expertise and newly acquired data skills to enhance and optimize analytical processes, driving data-informed decision-making and business improvements. In my free time, I am either watching a football game, learning video game development, or at the gym.</h3>
 
-- 🌱 I’m currently learning **C++ Unreal Engine and BI Skills via IBM BI Analyst course**
+- 🌱 I’m currently learning **BI Skills via IBM BI Analyst course**
 
 - 👨‍💻 All of my projects are available at [Data Projects](https://github.com/Barrett34/Data_Projects_TripleTen)
 
