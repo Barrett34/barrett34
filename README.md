@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Barrett Morrissette</h1>
-<h3 align="center">Aspiring data scientist with 3+ years of software development experience and 1 year in data science, complemented by a portfolio of projects focused on data analysis, statistical modeling, and machine learning. Demonstrates deep proficiency in Python and a strong understanding of analytical tools. Eager to leverage development expertise and newly acquired data skills to enhance and optimize analytical processes, driving data-informed decision-making and business improvements. In my free time, I am either watching a football game, learning video game development, or at the gym.</h3>
+<h3 align="center">Business Intelligence and Data Analyst with hands-on experience transforming complex datasets into actionable insights that drive operational, financial, and strategic decisions. Currently pursuing a Master of Science in Business Intelligence and Data Analytics (Graduating Fall 2027), with a strong foundation in Python, SQL, Tableau, Power BI, and advanced Excel.
+
+I’ve applied analytics across operations, engineering, sales, and software environments—supporting leadership with KPI tracking, forecasting, dashboards, and automation. My work has helped reduce operational downtime by 50%, improve resource allocation efficiency by 80%, and increase decision-making speed by 50% through data-driven reporting and workflow optimization.
+</h3>
 
 - 🌱 I’m currently learning **BI Skills via IBM BI Analyst course**
 
