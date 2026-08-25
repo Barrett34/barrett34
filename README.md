@@ -317,9 +317,9 @@ I'm continuing to expand my cloud engineering knowledge through hands-on project
 
 I'm interested in opportunities involving **Cloud Engineering, DevOps Engineering, Infrastructure Automation, and Cloud Operations**.
 
-💼 **LinkedIn:** Add LinkedIn URL
-📧 **Email:** Add Professional Email
-🐙 **GitHub:** Add GitHub URL
+💼 **LinkedIn:** https://www.linkedin.com/in/barrett-morrissette/
+📧 **Email:** morrissettebarrett@gmail.com
+
 
 ---
 
