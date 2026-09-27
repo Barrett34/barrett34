@@ -4,7 +4,7 @@
 
 I'm a **Cloud Engineer / DevOps professional** with a background in software development, and automation. I'm focused on designing and deploying **scalable cloud infrastructure**, building **CI/CD pipelines**, containerizing applications, and automating cloud environments using **Infrastructure as Code (IaC)**.
 
-My recent projects have focused on building AWS infrastructure with **Terraform**, including networking, compute, container registries, ECS/EKS environments, IAM configurations, and supporting DevOps infrastructure. I've integrated these environments with **Docker, Jenkins, Kubernetes, Helm, GitHub Actions, and Argo CD** to create automated CI/CD and GitOps workflows.
+My recent projects have focused on building AWS infrastructure with **Terraform**, including networking, compute, container registries, ECS/EKS environments, IAM configurations, and supporting DevOps infrastructure. I've integrated these environments with **Docker, Jenkins, Kubernetes, Helm, GitHub Actions, and Argo CD** to create automated CI/CD and GitOps workflows. Currently working to be certified AWS Architect.
 
 ---
 
